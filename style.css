@@ -81,7 +81,7 @@ input:hover {
 
 @media (max-width: 767px){
     .main{
-        width: 80%;
+        width: 60%;
         height: 550px;
     }
     body{
